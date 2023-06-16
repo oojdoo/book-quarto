@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "book-quarto"
+  title: "A book using quarto"
   author: "Norah Jones"
   date: "17/06/2023"
   chapters:
@@ -11,6 +11,11 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+
+  downloads: [pdf]
+  sidebar:
+    pinned: true
+
 
 bibliography: references.bib
 
