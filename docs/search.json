@@ -14,25 +14,11 @@
     "text": "What is Polars ?\nPolars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
+    "objectID": "intro.html#what-is-polars",
+    "href": "intro.html#what-is-polars",
     "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "section": "1.1 What is Polars ?",
+    "text": "1.1 What is Polars ?\nPolars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "summary.html#part",
@@ -42,10 +28,10 @@
     "text": "2.1 Part\nNope."
   },
   {
-    "objectID": "intro.html#what-is-polars",
-    "href": "intro.html#what-is-polars",
-    "title": "1  Introduction",
-    "section": "1.1 What is Polars ?",
-    "text": "1.1 What is Polars ?\nPolars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
