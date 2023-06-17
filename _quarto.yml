@@ -19,6 +19,8 @@ book:
     background: AliceBlue
   search: true
   repo-url: https://github.com/oojdoo/book-quarto
+  repo-branch: main
+  repo-actions: [source]
 
 
 bibliography: references.bib
