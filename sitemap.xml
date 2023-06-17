@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oojdoo.github.io/book-quarto/index.html</loc>
-    <lastmod>2023-06-17T12:46:35.364Z</lastmod>
+    <lastmod>2023-06-17T22:38:39.266Z</lastmod>
   </url>
   <url>
     <loc>https://oojdoo.github.io/book-quarto/intro.html</loc>
-    <lastmod>2023-06-17T12:46:35.372Z</lastmod>
+    <lastmod>2023-06-17T22:38:39.274Z</lastmod>
+  </url>
+  <url>
+    <loc>https://oojdoo.github.io/book-quarto/graphiques.html</loc>
+    <lastmod>2023-06-17T22:38:39.278Z</lastmod>
   </url>
   <url>
     <loc>https://oojdoo.github.io/book-quarto/summary.html</loc>
-    <lastmod>2023-06-17T12:46:35.376Z</lastmod>
+    <lastmod>2023-06-17T22:38:39.286Z</lastmod>
   </url>
   <url>
     <loc>https://oojdoo.github.io/book-quarto/references.html</loc>
-    <lastmod>2023-06-17T12:46:35.380Z</lastmod>
+    <lastmod>2023-06-17T22:38:39.290Z</lastmod>
   </url>
   <url>
     <loc>https://oojdoo.github.io/book-quarto/A-book-using-quarto.pdf</loc>
-    <lastmod>2023-06-17T12:46:34.916Z</lastmod>
+    <lastmod>2023-06-17T22:38:38.806Z</lastmod>
   </url>
   <url>
     <loc>https://oojdoo.github.io/book-quarto/A-book-using-quarto.docx</loc>
-    <lastmod>2023-06-17T12:46:35.228Z</lastmod>
+    <lastmod>2023-06-17T22:38:39.126Z</lastmod>
   </url>
 </urlset>

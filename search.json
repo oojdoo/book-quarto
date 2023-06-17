@@ -21,11 +21,18 @@
     "text": "1.1 What is Polars ?\nPolars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
+    "objectID": "graphiques.html",
+    "href": "graphiques.html",
+    "title": "2  Quarto Basics",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 2.1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 2.1: A line plot on a polar axis"
+  },
+  {
     "objectID": "summary.html#part",
     "href": "summary.html#part",
-    "title": "2  Summary",
-    "section": "2.1 Part",
-    "text": "2.1 Part\nNope."
+    "title": "3  Summary",
+    "section": "3.1 Part",
+    "text": "3.1 Part\nNope."
   },
   {
     "objectID": "references.html",
