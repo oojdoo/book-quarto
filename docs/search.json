@@ -33,5 +33,19 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html#part",
+    "href": "summary.html#part",
+    "title": "2  Summary",
+    "section": "2.1 Part",
+    "text": "2.1 Part\nNope."
+  },
+  {
+    "objectID": "intro.html#what-is-polars",
+    "href": "intro.html#what-is-polars",
+    "title": "1  Introduction",
+    "section": "1.1 What is Polars ?",
+    "text": "1.1 What is Polars ?\nPolars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]

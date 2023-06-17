@@ -16,7 +16,7 @@ book:
   downloads: [pdf]
   sidebar:
     pinned: true
-    background: light
+    background: AliceBlue
   search: true
   repo-url: https://github.com/oojdoo/book-quarto
 

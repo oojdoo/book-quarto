@@ -3,3 +3,7 @@
 This is a book created from markdown and executable code.
 
 See @knuth84 for additional discussion of literate programming.
+
+## What is Polars ?
+
+Polars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R.
