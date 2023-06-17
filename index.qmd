@@ -1,5 +1,5 @@
 ---
-lang: fr    
+lang: fr
 ---
 
 # Preface {.unnumbered}
@@ -7,3 +7,11 @@ lang: fr
 This is a quarto book!!
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+::: callout-note
+Une note d'information.
+:::
+
+## What is Polars ?
+
+Polars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R.

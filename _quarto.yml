@@ -4,6 +4,7 @@ project:
 
 book:
   title: "A book using quarto"
+  site-url: https://oojdoo.github.io/book-quarto/
   author: "Norah Jones"
   date: "17/06/2023"
   chapters:
@@ -15,6 +16,9 @@ book:
   downloads: [pdf]
   sidebar:
     pinned: true
+    background: light
+  search: true
+  repo-url: https://github.com/oojdoo/book-quarto
 
 
 bibliography: references.bib

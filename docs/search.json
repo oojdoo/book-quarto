@@ -26,5 +26,12 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "index.html#what-is-polars",
+    "href": "index.html#what-is-polars",
+    "title": "A book using quarto",
+    "section": "What is Polars ?",
+    "text": "What is Polars ?\nPolars is a very fast and elegant dataframe library that does the same sort of thing as the main data manipulation packages in R."
   }
 ]
