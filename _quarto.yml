@@ -13,7 +13,7 @@ book:
     - summary.qmd
     - references.qmd
 
-  downloads: [pdf]
+  downloads: [pdf, docx]
   sidebar:
     pinned: true
     background: AliceBlue
@@ -28,6 +28,7 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+  docx: default
 
 
 
